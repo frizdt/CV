@@ -41,7 +41,7 @@ h2 {
 	margin: 0;
 	display: flex;
 	border: 1px rgb(182, 211, 236) solid;
-	height: 30vh;
+	min-height: 30vh;
 	flex-direction: column;
 	justify-content: space-around;
 }
